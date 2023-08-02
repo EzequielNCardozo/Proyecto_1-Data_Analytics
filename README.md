@@ -17,4 +17,14 @@ Caracteristicas
 -Estan claros los objetívos, el alcance y la aplicación.
 
 
+Versiones
+El proyecto consta de 5 versiones, cuyas instancias estan especificadas y plasmadas en la documentacion
+
+V1: Se introduce la tematica y el dataset, ademas se realiza la storytelling con la que luego se trabajara mas adelante-
+V2: Se realiza la estructuracion de los datos mediante un modelo Diagrama Entidad - Relacion (DER) y la normalizacion del dataset.
+V3: Se exportan los datos sintetizados a Power BI donde se comienza a desarrollarse el dashboard.
+V4: Se añaden solapas y se optimiza el dashboard, ademas de modificarse el DER y algunas tablas.
+V5 FINAL: Se retocan detalles finales y se optimiza el dashboard. 
+
+
 
